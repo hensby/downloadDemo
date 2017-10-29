@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Oct 27 11:40:47 CST 2017
+2.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\progresspatch_blue.9.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\progress_patch_green.9.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\progress_activity.xml
+5.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\progressbar_horizontal_1.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\progress_patch_galy.9.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

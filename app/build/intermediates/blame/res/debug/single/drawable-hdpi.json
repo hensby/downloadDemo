@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_patch_galy.9.png",
+        "source": "D:\\android\\project\\downloadDemo\\app\\src\\main\\res\\drawable-hdpi\\progress_patch_galy.9.png"
+    },
+    {
+        "merged": "D:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progresspatch_blue.9.png",
+        "source": "D:\\android\\project\\downloadDemo\\app\\src\\main\\res\\drawable-hdpi\\progresspatch_blue.9.png"
+    },
+    {
+        "merged": "D:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_patch_green.9.png",
+        "source": "D:\\android\\project\\downloadDemo\\app\\src\\main\\res\\drawable-hdpi\\progress_patch_green.9.png"
+    },
+    {
+        "merged": "D:\\android\\project\\downloadDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\project\\downloadDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
